@@ -11,6 +11,6 @@ console.log($pet);
 var _pet = 'leone';
 console.log(_pet);
 var _pet2 = 'pantera';
-document.write(_pet2);
+document.write(_pet);
 
 //var 12 = 'numero';
